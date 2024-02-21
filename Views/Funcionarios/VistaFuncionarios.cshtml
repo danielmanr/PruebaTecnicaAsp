@@ -1,0 +1,62 @@
+﻿@using System.Data
+@model DataTable
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Funcionarios</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+    <h1>Funcionarios</h1>
+    @using (Html.BeginForm("BuscarFuncionarios", "Funcionarios"))
+    {
+        <label>Buscar Funcionario</label>
+        @Html.TextBox("buscar",null,new{@class="TextBox"});
+        <input type="submit" name="buscar" id="buscar" value="Buscar"/input>
+        
+    }
+    
+
+    <table style="border:1px solid black; margin:auto; width:auto;">
+        <tr>
+            <th>id_funcionario</th>
+            <th>Tipo Documento</th>
+            <th>Numero Documento</th>
+            <th>Telefono</th>
+            <th style="width: 40px;">fax</th>
+            <th style="width: 40px;">email</th>
+            <th style="width: 60px;">Pais</th>
+            <th style="width: 60px;">Departamento</th>
+            <th style ="width: 60px;">Pagina Web</th>
+        </tr>
+        @foreach (DataRow r in Model.Rows)
+        {
+            <tr>
+                <td>@Convert.ToString(r["id_funcionarios"])</td>
+                <td>@Convert.ToString(r["documento"])</td>
+                <td>@Convert.ToString(r["numeroIdentificacion"])</td>
+                <td>@Convert.ToString(r["telefono"])</td>
+                <td>@Convert.ToString(r["fax"])</td>
+                <td>@Convert.ToString(r["email"])</td>
+                <td>@Convert.ToString(r["nombrePais"])</td>
+                <td>@Convert.ToString(r["nombreDepartamento"])</td>
+                <td>@Convert.ToString(r["paginaWeb"])</td>
+            </tr>
+
+        }   
+        
+    </table>
+
+    <span>
+        @TempData["MSG"].ToString()
+    </span>
+</body>
+</html>

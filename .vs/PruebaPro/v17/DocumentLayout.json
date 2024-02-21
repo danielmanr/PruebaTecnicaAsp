@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|c:\\users\\daniel\\source\\repos\\pruebapro\\dao\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|solutionrelative:dao\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|c:\\users\\daniel\\source\\repos\\pruebapro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|c:\\users\\daniel\\source\\repos\\pruebapro\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|c:\\users\\daniel\\source\\repos\\pruebapro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|c:\\users\\daniel\\source\\repos\\pruebapro\\pruebapro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|solutionrelative:pruebapro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|c:\\users\\daniel\\source\\repos\\pruebapro\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|solutionrelative:controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|c:\\users\\daniel\\source\\repos\\pruebapro\\models\\departamentopais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|solutionrelative:models\\departamentopais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|c:\\users\\daniel\\source\\repos\\pruebapro\\views\\funcionarios\\vistafuncionarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|solutionrelative:views\\funcionarios\\vistafuncionarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|c:\\users\\daniel\\source\\repos\\pruebapro\\views\\funcionarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|solutionrelative:views\\funcionarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|c:\\users\\daniel\\source\\repos\\pruebapro\\dao\\classvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|solutionrelative:dao\\classvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|c:\\users\\daniel\\source\\repos\\pruebapro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|c:\\users\\daniel\\source\\repos\\pruebapro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|c:\\users\\daniel\\source\\repos\\pruebapro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|c:\\users\\daniel\\source\\repos\\pruebapro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|c:\\users\\daniel\\source\\repos\\pruebapro\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|solutionrelative:models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|c:\\users\\daniel\\source\\repos\\pruebapro\\models\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|solutionrelative:models\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|c:\\users\\daniel\\source\\repos\\pruebapro\\models\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CE3331-2790-4901-A00B-13937F2EBE61}|PruebaPro.csproj|solutionrelative:models\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T01:48:47.179Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-21T08:18:59.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PruebaPro",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\PruebaPro.csproj",
+              "RelativeDocumentMoniker": "PruebaPro.csproj",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\PruebaPro.csproj",
+              "RelativeToolTip": "PruebaPro.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-21T08:14:04.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FuncionariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Controllers\\FuncionariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FuncionariosController.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Controllers\\FuncionariosController.cs",
+              "RelativeToolTip": "Controllers\\FuncionariosController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T02:52:05.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T02:56:36.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\DAO\\Conexion.cs",
+              "RelativeDocumentMoniker": "DAO\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\DAO\\Conexion.cs",
+              "RelativeToolTip": "DAO\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T01:52:33.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T02:43:23.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VistaFuncionarios.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Views\\Funcionarios\\VistaFuncionarios.cshtml",
+              "RelativeDocumentMoniker": "Views\\Funcionarios\\VistaFuncionarios.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Views\\Funcionarios\\VistaFuncionarios.cshtml",
+              "RelativeToolTip": "Views\\Funcionarios\\VistaFuncionarios.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T04:37:54.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Views\\Funcionarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Funcionarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Views\\Funcionarios\\Index.cshtml",
+              "RelativeToolTip": "Views\\Funcionarios\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T02:53:11.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartamentoPais.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Models\\DepartamentoPais.cs",
+              "RelativeDocumentMoniker": "Models\\DepartamentoPais.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Models\\DepartamentoPais.cs",
+              "RelativeToolTip": "Models\\DepartamentoPais.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T01:44:31.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassVariables.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\DAO\\ClassVariables.cs",
+              "RelativeDocumentMoniker": "DAO\\ClassVariables.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\DAO\\ClassVariables.cs",
+              "RelativeToolTip": "DAO\\ClassVariables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T01:28:28.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T06:23:23.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T05:42:58.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-21T01:35:39.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Models\\Departamento.cs",
+              "RelativeToolTip": "Models\\Departamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T01:46:08.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Funcionarios.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Models\\Funcionarios.cs",
+              "RelativeDocumentMoniker": "Models\\Funcionarios.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Models\\Funcionarios.cs",
+              "RelativeToolTip": "Models\\Funcionarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T01:40:08.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TipoDocumento.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Models\\TipoDocumento.cs",
+              "RelativeDocumentMoniker": "Models\\TipoDocumento.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\PruebaPro\\Models\\TipoDocumento.cs",
+              "RelativeToolTip": "Models\\TipoDocumento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T01:47:25.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
